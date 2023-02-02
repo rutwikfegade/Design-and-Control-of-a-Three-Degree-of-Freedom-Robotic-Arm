@@ -1,12 +1,7 @@
 ## 3-DOF-ARM
-Three Degrees of Freedom robotic arm using servo motor and push buttons.
+Robotic arm with three degrees of freedom that uses a servo motor and push buttons.
 
-5mg sero motors were used to create the robotic arm.
-The goal of this project was to use a push button to control each joint of the arm.
-A single push button is used to control each servo.
-There are four servo motors in all, with five pushbuttons to control them.
-The fifth pushbutton is used to control the motor's direction, as the arm must also reverse its motion.
-The fifth button toggles between reverse and forward motor motion.
+The robotic arm was built using 5mg servo motors. The purpose of this project was to create a way to operate each arm joint with a push button. Each servo is managed by a single push button. Overall, there are four servo motors and five pushbuttons to operate them. Since the arm must also reverse its motion, the fifth pushbutton is utilised to control the motor's direction. The fifth button switches the motor's direction between backward and forward direction.
 
 ![IMG_20210221_184731](https://user-images.githubusercontent.com/69248756/172658439-10ec3783-e327-416a-b4be-6f51a2fe0685.jpg)
 
